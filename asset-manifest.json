@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Imrans-React-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/Imrans-React-Portfolio/static/js/main.9cf7a135.js",
+    "static/js/787.ecf25f07.chunk.js": "/Imrans-React-Portfolio/static/js/787.ecf25f07.chunk.js",
+    "static/media/logo.svg": "/Imrans-React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Imrans-React-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/Imrans-React-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.9cf7a135.js.map": "/Imrans-React-Portfolio/static/js/main.9cf7a135.js.map",
+    "787.ecf25f07.chunk.js.map": "/Imrans-React-Portfolio/static/js/787.ecf25f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9cf7a135.js"
+  ]
+}
