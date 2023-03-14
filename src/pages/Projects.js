@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Card from "../components/Card";
 import Alert from "../components/Alert";
 
-function Discover() {
+function Projects() {
   const [image, setImage] = useState(
     "https://images.dog.ceo/breeds/brabancon/n02112706_16.jpg"
   );
@@ -31,4 +31,4 @@ function Discover() {
   );
 }
 
-export default Discover;
+export default Projects;

@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <Link className="navbar-brand" to="/">
-        Pupster
+        Imrans Portfolio
       </Link>
       <div>
         <ul className="navbar-nav">
@@ -29,7 +29,7 @@ function Navbar() {
                 isActive ? 'nav-link active' : 'nav-link'
               }
             >
-              Discover
+              Projects
             </NavLink>
           </li>
           <li className="nav-item">
@@ -39,7 +39,7 @@ function Navbar() {
                 isActive ? 'nav-link active' : 'nav-link'
               }
             >
-              Search
+              Contact
             </NavLink>
           </li>
         </ul>

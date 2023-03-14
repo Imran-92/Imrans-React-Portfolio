@@ -3,7 +3,7 @@ import Container from "../components/Container";
 import SearchForm from "../components/SearchForm";
 import SearchResults from "../components/SearchResults";
 
-function Search() {
+function Contact() {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, setSearchResults] = useState([]);
 
@@ -32,4 +32,4 @@ function Search() {
   );
 }
 
-export default Search;
+export default Contact;
