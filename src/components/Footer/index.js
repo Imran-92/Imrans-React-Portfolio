@@ -1,12 +1,49 @@
 import React from "react";
-import "./style.css";
 
 function Footer() {
-  return (
-    <footer className="footer">
-      <span>Pupster 2017</span>
-    </footer>
-  );
+	return (
+		<footer className="footer">
+			<div>
+				<a
+					href="https://github.com/Imran-92"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<img
+						src={require("../../assets/logos/github-logo.png")}
+						alt="Github"
+						className="logo"
+					></img>
+				</a>
+			</div>
+			<div>
+				<a
+					href="https://www.linkedin.com/in/imran-aftab-ab3559107/"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<img
+						src={require("../../assets/logos/linkedin-logo.png")}
+						alt="LinkedIn"
+						className="logo"
+					></img>
+				</a>
+			</div>
+			<div>
+				<a
+					href="https://twitter.com/Imr4n_92"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<img
+						src={require("../../assets/logos/twitter-logo.png")}
+						alt="Twitter"
+						className="logo"
+					></img>
+				</a>
+			</div>
+		</footer>
+	);
 }
 
 export default Footer;
