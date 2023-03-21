@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/Imrans-React-Portfolio/static/css/main.cb3cee72.css",
-    "main.js": "/Imrans-React-Portfolio/static/js/main.04decf49.js",
+    "main.css": "/Imrans-React-Portfolio/static/css/main.a1a6565b.css",
+    "main.js": "/Imrans-React-Portfolio/static/js/main.9bb5a3d8.js",
+    "static/js/787.ecf25f07.chunk.js": "/Imrans-React-Portfolio/static/js/787.ecf25f07.chunk.js",
+    "static/media/living-real-image.png": "/Imrans-React-Portfolio/static/media/living-real-image.74e9065d57fa7794c53e.png",
+    "static/media/budget-tracker-image.png": "/Imrans-React-Portfolio/static/media/budget-tracker-image.ccf42f88152b6727d491.png",
+    "static/media/weather-dashboard-image.png": "/Imrans-React-Portfolio/static/media/weather-dashboard-image.5c4e13aa3a5b663b351c.png",
+    "static/media/auto-tracker-image2.png": "/Imrans-React-Portfolio/static/media/auto-tracker-image2.7c1d888a0f5343353d1a.png",
+    "static/media/password-generator-image.png": "/Imrans-React-Portfolio/static/media/password-generator-image.a220ea8fca02471b3052.png",
+    "static/media/Imran-Aftab.pdf": "/Imrans-React-Portfolio/static/media/Imran-Aftab.d9dcd514c4394754bc15.pdf",
+    "static/media/flash-beats-image.gif": "/Imrans-React-Portfolio/static/media/flash-beats-image.0f7c01cf3264be659333.gif",
+    "static/media/auto-tracker-image.png": "/Imrans-React-Portfolio/static/media/auto-tracker-image.621f7d911ac277c38a19.png",
+    "static/media/Prework-Study.png": "/Imrans-React-Portfolio/static/media/Prework-Study.ec436ab8b7c7006a45b8.png",
+    "static/media/AvatarImg.png": "/Imrans-React-Portfolio/static/media/AvatarImg.8db7811b1ddc4b570bfb.png",
+    "static/media/note-taker-image.png": "/Imrans-React-Portfolio/static/media/note-taker-image.704b6d82c169a0e5e3fa.png",
+    "static/media/twitter-logo.png": "/Imrans-React-Portfolio/static/media/twitter-logo.a7ac677f631fcc2f5761.png",
     "index.html": "/Imrans-React-Portfolio/index.html",
-    "main.cb3cee72.css.map": "/Imrans-React-Portfolio/static/css/main.cb3cee72.css.map",
-    "main.04decf49.js.map": "/Imrans-React-Portfolio/static/js/main.04decf49.js.map"
+    "main.a1a6565b.css.map": "/Imrans-React-Portfolio/static/css/main.a1a6565b.css.map",
+    "main.9bb5a3d8.js.map": "/Imrans-React-Portfolio/static/js/main.9bb5a3d8.js.map",
+    "787.ecf25f07.chunk.js.map": "/Imrans-React-Portfolio/static/js/787.ecf25f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb3cee72.css",
-    "static/js/main.04decf49.js"
+    "static/css/main.a1a6565b.css",
+    "static/js/main.9bb5a3d8.js"
   ]
 }
