@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Imrans-React-Portfolio/static/css/main.a1a6565b.css",
-    "main.js": "/Imrans-React-Portfolio/static/js/main.2376fab4.js",
+    "main.js": "/Imrans-React-Portfolio/static/js/main.b6267a9c.js",
     "static/js/787.ecf25f07.chunk.js": "/Imrans-React-Portfolio/static/js/787.ecf25f07.chunk.js",
     "static/media/living-real-image.png": "/Imrans-React-Portfolio/static/media/living-real-image.74e9065d57fa7794c53e.png",
     "static/media/budget-tracker-image.png": "/Imrans-React-Portfolio/static/media/budget-tracker-image.ccf42f88152b6727d491.png",
     "static/media/weather-dashboard-image.png": "/Imrans-React-Portfolio/static/media/weather-dashboard-image.5c4e13aa3a5b663b351c.png",
     "static/media/auto-tracker-image2.png": "/Imrans-React-Portfolio/static/media/auto-tracker-image2.7c1d888a0f5343353d1a.png",
     "static/media/password-generator-image.png": "/Imrans-React-Portfolio/static/media/password-generator-image.a220ea8fca02471b3052.png",
-    "static/media/Imran-Aftab.pdf": "/Imrans-React-Portfolio/static/media/Imran-Aftab.d9dcd514c4394754bc15.pdf",
+    "static/media/Imran-Aftab.pdf": "/Imrans-React-Portfolio/static/media/Imran-Aftab.9454ff351d9f87ccce39.pdf",
     "static/media/flash-beats-image.gif": "/Imrans-React-Portfolio/static/media/flash-beats-image.0f7c01cf3264be659333.gif",
     "static/media/auto-tracker-image.png": "/Imrans-React-Portfolio/static/media/auto-tracker-image.621f7d911ac277c38a19.png",
     "static/media/AvatarImg.png": "/Imrans-React-Portfolio/static/media/AvatarImg.8db7811b1ddc4b570bfb.png",
     "static/media/twitter-logo.png": "/Imrans-React-Portfolio/static/media/twitter-logo.a7ac677f631fcc2f5761.png",
     "index.html": "/Imrans-React-Portfolio/index.html",
     "main.a1a6565b.css.map": "/Imrans-React-Portfolio/static/css/main.a1a6565b.css.map",
-    "main.2376fab4.js.map": "/Imrans-React-Portfolio/static/js/main.2376fab4.js.map",
+    "main.b6267a9c.js.map": "/Imrans-React-Portfolio/static/js/main.b6267a9c.js.map",
     "787.ecf25f07.chunk.js.map": "/Imrans-React-Portfolio/static/js/787.ecf25f07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1a6565b.css",
-    "static/js/main.2376fab4.js"
+    "static/js/main.b6267a9c.js"
   ]
 }
